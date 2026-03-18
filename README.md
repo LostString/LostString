@@ -2,7 +2,7 @@
 <p align="center">🖥️ Developer from Spain | 🧠 Code. Logic. Cybersecurity.</p>
 
 <p align="center">
-  <img src="https://cdn.pfps.gg/pfps/1370-toradora-5.png" alt="Cyberpunk city" width="800"/>
+  <img src="https://cdn.pfps.gg/pfps/1370-toradora-5.png" alt="Taiga" width="500"/>
 </p>
 
 ---
