@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loststring&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&hide=issues" width="410" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loststring&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loststring&layout=compact&theme=tokyonight&hide_border=true" width="380" alt="Top languages"/>
 </p>
 
 ---
